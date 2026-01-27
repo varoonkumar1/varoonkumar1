@@ -17,6 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=varoonkumar1&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=varoonkumar1&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=varoonkumar1&&cache_seconds=1800icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
